@@ -200,14 +200,9 @@
 
 添加微信备注 Github ChatGPT 以及原因，微信群请在 [issue](https://github.com/hncboy/chatgpt-web-java/issues/77) 查看
 
-<div style="display: flex; align-items: center; gap: 20px;">
-  <div style="text-align: center">
-    <img style="max-width: 100%" src="pics/wechat.png" alt="微信" />
-</div>
 
 
 
 
-# LICENSE
 
-MIT © [hncboy](LICENSE)
+
